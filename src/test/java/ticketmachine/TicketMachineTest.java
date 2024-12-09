@@ -108,7 +108,7 @@ class TicketMachineTest {
 			fail("Cet appel doit lever une exception");
 		}
 		catch(IllegalArgumentException e){
-
+// petit commentaire
 		}
 	}
 
